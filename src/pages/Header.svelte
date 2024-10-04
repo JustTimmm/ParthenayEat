@@ -6,7 +6,7 @@
     <h1 class='text-9xl font-bold'>
         ParthenayEat
     </h1>
-    <button class='btn mt-12 shadow-xl shadow-red-950' on:click={() => scrollToSection('about')}>
+    <button class='btn mt-12 shadow-lg shadow-red-950' on:click={() => scrollToSection('about')}>
         Qui sommes nous ?
     </button>
 </div>
