@@ -26,7 +26,7 @@
         </div>
     </div>
 
-    <button class='btn mt-12 shadow-md shadow-red-950 self-center mb-4' on:click={() => scrollToSection('how-work')}>
+    <button class='btn mt-12 shadow-md shadow-red-950 border-2 border-white self-center mb-4' on:click={() => scrollToSection('how-work')}>
         <ArrowDownIcon />
     </button>
 </div>
